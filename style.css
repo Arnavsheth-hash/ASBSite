@@ -1,0 +1,68 @@
+.site-header {
+  background-color: #027275;
+}
+.logo {
+  width: 10rem;
+  height: auto;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+.white {
+  color: white;
+}
+.title {
+  font-size: 2rem;
+}
+.nav-right {
+  float: right;
+  display: inline-block;
+}
+.nav-left {
+  float: left;
+}
+.nav-link {
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: var(--bs-nav-link-color);
+  text-decoration: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+.title {
+  padding-top: 5em;
+  padding-bottom: 8em;
+  text-align: center;
+  background-size: cover;
+  background-color: #027275;
+  background-image: url("Banner-2.jpg");
+  color: #027275;
+}
+.h1 {
+  font-size: 400%;
+  font-family: "Caveat", cursive;
+}
+.subtitle {
+  text-align: center;
+}
+.cyan {
+  color: #027275;
+}
+hr {
+  margin-bottom: 2em;
+}
+footer {
+  background-color: #027275;
+  background-image: url("Watercolor.jpeg");
+}
+.socials {
+  max-width: 20%;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grey {
+  background-color: #434d4f;
+}
