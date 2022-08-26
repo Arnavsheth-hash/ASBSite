@@ -66,3 +66,8 @@ footer {
 .grey {
   background-color: #434d4f;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
